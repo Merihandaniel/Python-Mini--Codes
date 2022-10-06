@@ -1,2 +1,2 @@
-# Python-Mini--Codes
+# Python-Mini-Codes
 Small Python Codes
